@@ -96,7 +96,7 @@ So depending on what you have
 
 - check to see if firefox gives any error, if nothing happens and the prompt doesn't show up
 
-![firefox working fine as a headless browser](https://github.com/strawHatRobby/vvagrantInit/documentAssets/firefox.jpg")
+![firefox working fine as a headless browser](https://github.com/strawHatRobby/vagrantInit/documentAssets/firefox.jpg")
 
 **It means everything is working fine**
 
@@ -111,4 +111,4 @@ So depending on what you have
   ```
 - if all teh tests pass ( all green ), then everything is set up properly and you are ready to start working on your first django project
 
-#### => If you encounter any problems anywhere, cotact me on slack 
+#### => If you encounter any problems anywhere, cotact me on slack
