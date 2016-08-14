@@ -81,7 +81,7 @@ So depending on what you have
 
 ## Passing the tests in the djangoTemplate
 
-1. Make firefox work headlessly
+1. Make firefox work head-lessly
 
 - Run the following command on your terminal
 
@@ -111,4 +111,4 @@ So depending on what you have
   ```
 - if all teh tests pass ( all green ), then everything is set up properly and you are ready to start working on your first django project
 
-#### => If you encounter any problems anywhere, cotact me on slack
+#### => If you encounter any problems anywhere, contact me on slack
