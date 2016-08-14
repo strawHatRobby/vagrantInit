@@ -96,7 +96,7 @@ So depending on what you have
 
 - check to see if firefox gives any error, if nothing happens and the prompt doesn't show up
 
-![firefox working fine as a headless browser](https://github.com/strawHatRobby/vagrantInit/documentAssets/firefox.jpg")
+![firefox working fine as a headless browser](https://github.com/strawHatRobby/vagrantInit/documentAssets/firefox.jpg  "Firefox.jpg")
 
 **It means everything is working fine**
 
